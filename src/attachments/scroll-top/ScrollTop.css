@@ -1,0 +1,17 @@
+
+.btn-scroll-top {
+    position: fixed;
+    right: 25px;
+    bottom: 50px;
+    font-size: 35px;
+    color: #ccc;
+    cursor: pointer;
+    padding: 5px 8px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    background-color: #FFFFFF;
+}
+.btn-scroll-top:hover {
+    color: #444444;
+    border: 1px solid #ccc;
+}

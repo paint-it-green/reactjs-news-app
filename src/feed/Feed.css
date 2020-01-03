@@ -1,0 +1,54 @@
+
+.feed-wrapper {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px #ccc dotted;
+}
+.feed-title {
+    margin: 0;
+    font-size: 1.35em;
+}
+.feed-source {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 5px;
+}
+.feed-image {
+    width: 100%;
+}
+.feed-link {
+    color: unset;
+    text-decoration: none;
+}
+.feed-link:hover {
+    text-decoration: underline;
+}
+.feed-content {
+    margin: 0;
+}
+
+
+/* Social Media Buttons */
+.feed-btn-social-wrapper {
+    margin-top: 15px;
+    text-align: right;
+}
+.feed-btn-social {
+    border: 0;
+    padding: 8px 15px;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 4px;
+    display: inline-block;
+}
+.feed-btn-social.facebook {
+    background-color: #4c70ba;
+}
+.feed-btn-social.pinterest {
+    background-color: #ee0a23;
+}
+.feed-btn-social {
+    padding: 0 !important;
+}
